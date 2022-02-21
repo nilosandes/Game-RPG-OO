@@ -1,0 +1,16 @@
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\bin\Debug\net5.0\Game-RPG-OO.exe
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\bin\Debug\net5.0\Game-RPG-OO.deps.json
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\bin\Debug\net5.0\Game-RPG-OO.runtimeconfig.json
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\bin\Debug\net5.0\Game-RPG-OO.runtimeconfig.dev.json
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\bin\Debug\net5.0\Game-RPG-OO.dll
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\bin\Debug\net5.0\ref\Game-RPG-OO.dll
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\bin\Debug\net5.0\Game-RPG-OO.pdb
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\obj\Debug\net5.0\Game-RPG-OO.csproj.AssemblyReference.cache
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\obj\Debug\net5.0\Game-RPG-OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\obj\Debug\net5.0\Game-RPG-OO.AssemblyInfoInputs.cache
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\obj\Debug\net5.0\Game-RPG-OO.AssemblyInfo.cs
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\obj\Debug\net5.0\Game-RPG-OO.csproj.CoreCompileInputs.cache
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\obj\Debug\net5.0\Game-RPG-OO.dll
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\obj\Debug\net5.0\ref\Game-RPG-OO.dll
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\obj\Debug\net5.0\Game-RPG-OO.pdb
+C:\Users\Nilo Sandes\source\repos\Game-RPG-OO\obj\Debug\net5.0\Game-RPG-OO.genruntimeconfig.cache
